@@ -1,11 +1,11 @@
 #### Los Gitbrothers
 
-| Alumno                     | Rol             | Tarea Asignada                 |
-|----------------------------|-----------------|--------------------------------|
-| Romagnoli Jorge Luis       | Scrum Master    | Gestión de acceso              |
-| Ian Ortellado              | Product Owner   | Organización de la estructura  |
-| Slumczeski Francisco       | Dev Team        | Información y redacción        |
-| Facundo Del Cerro          | Dev Team        | Información y redacción        |
+| Alumno                     | Rol             | Tarea Asignada                 |        @Github                  |
+|----------------------------|-----------------|--------------------------------| --------------------------------|
+| Romagnoli Jorge Luis       | Scrum Master    | Gestión de acceso              |   @JorgeRomagnoli               |
+| Ian Ortellado              | Product Owner   | Organización de la estructura  |     @PatoCulto                  |
+| Slumczeski Francisco       | Dev Team        | Información y redacción        |      @FranciscoSlcz             |
+| Facundo Del Cerro          | Dev Team        | Información y redacción        |    @elfacusape37-make           |
 
 
 ##### Herramientas utilizadas:
