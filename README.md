@@ -1,11 +1,11 @@
 #### Los Gitbrothers
 
-|Alumno | Rol |Tarea Asignada |
-|---|---|
-| Romagnoli Jorge Luis | Screw Master | Gestion de acceso |
-|Ian | Product Owner | Organizacion de la estructura |
-| Slumczeski Francisco | Dev Team | Informacion y redaccion |
-| Facundo | Dev Team | Informacion y redaccion |
+| Alumno                     | Rol             | Tarea Asignada                 |
+|----------------------------|-----------------|--------------------------------|
+| Romagnoli Jorge Luis       | Scrum Master    | Gestión de acceso              |
+| Ian                        | Product Owner   | Organización de la estructura  |
+| Slumczeski Francisco       | Dev Team        | Información y redacción        |
+| Facundo                    | Dev Team        | Información y redacción        |
 
 
 ##### Herramientas utilizadas:
